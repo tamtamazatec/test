@@ -1,0 +1,1 @@
+file pluto.txt into dirni
